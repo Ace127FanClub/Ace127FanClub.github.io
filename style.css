@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    background-image: url("ace.png");
+    background-repeat: no-repeat;
+    background-size: 70%;
+    background-position: center;
+    background-position-y: top;
+    top:0px;
+    right:0px;
+    bottom:0px;
+    left:0px;
+}
+
+#rainbow {
+    background-image: linear-gradient(red,orange,yellow,green,blue,violet);
+    opacity: 0%;
+    position: absolute;
+    top:0px;
+    right:0px;
+    bottom:0px;
+    left:0px;
+}
